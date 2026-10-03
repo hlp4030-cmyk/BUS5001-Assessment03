@@ -1,0 +1,14 @@
+{
+  "issues": [
+    {
+      "issue_category": "PROCUREMENT",
+      "urgency": "LOW",
+      "urgency_reason": "Potential non-compliance without stated operational impact or immediate action required.",
+      "followup_required": "Y",
+      "followup_reason": "Investigation is needed to gather information on the supplier's compliance.",
+      "escalation_required": "N",
+      "recommended_team": "PROCUREMENT_SUPPLY_CHAIN",
+      "data_sensitivity_risk": "MEDIUM"
+    }
+  ]
+}

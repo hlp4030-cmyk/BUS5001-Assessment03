@@ -1,0 +1,14 @@
+{
+  "issues": [
+    {
+      "issue_category": "ACCESSIBILITY",
+      "urgency": "CRITICAL",
+      "urgency_reason": "The message explicitly states the loss of essential access due to a blocked accessible entrance.",
+      "followup_required": "Y",
+      "followup_reason": "Action is required to clear and restore the blocked accessible entrance.",
+      "escalation_required": "Y",
+      "recommended_team": "WORKPLACE_ACCESSIBILITY_INCLUSION",
+      "data_sensitivity_risk": "LOW"
+    }
+  ]
+}

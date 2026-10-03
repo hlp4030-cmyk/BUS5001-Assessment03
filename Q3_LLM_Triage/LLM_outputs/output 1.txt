@@ -1,0 +1,14 @@
+{
+  "issues": [
+    {
+      "issue_category": "FACILITIES",
+      "urgency": "MEDIUM",
+      "urgency_reason": "Active water leak requiring action without explicitly stated significant operational impact.",
+      "followup_required": "Y",
+      "followup_reason": "Water leak requires investigation and resolution.",
+      "escalation_required": "N",
+      "recommended_team": "FACILITIES_MANAGEMENT",
+      "data_sensitivity_risk": "LOW"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+ LLM: Gemini 3.5 Flash-Lite
+Conversation link: https://share.gemini.google/pYEFeSVog96j
