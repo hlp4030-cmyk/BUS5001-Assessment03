@@ -22,22 +22,23 @@ BUS5001-Assessment03-main/
 │       ├── employee message 3.txt
 │       └── prompt.txt
 │
-└── Q4_NotebookLM/
-    ├── experiment_log/
-    │   ├── 22918313 NotebookLM Experiment Log 1   Strength & Limitation Test.docx
-    │   └── 22918313 NotebookLM Experiment Log 2   Feature Test.docx
-    ├── Generated Materials/
-    │   ├── 1. Mind Map.png
-    │   ├── 2. Slide deck.pdf
-    │   ├── 3. Infographic.png
-    │   ├── 4. Video Overview.mp4
-    │   ├── 5. flashcards.csv
-    │   ├── 6. Quiz/
-    │   │   ├── quiz 1.png
-    │   │   ├── quiz 2.png
-    │   │   └── quiz 3.png
-    │   ├── 7. Audio Overview.m4a
-    │   └── 8. Report.pdf
-    ├── source/
-    │   └── Screenshot of the sources.png
-    └── NotebookLM Link.txt
+├── Q4_NotebookLM/
+│   ├── experiment_log/
+│   │   ├── 22918313 NotebookLM Experiment Log 1   Strength & Limitation Test.docx
+│   │   └── 22918313 NotebookLM Experiment Log 2   Feature Test.docx
+│   ├── Generated Materials/
+│   │   ├── 1. Mind Map.png
+│   │   ├── 2. Slide deck.pdf
+│   │   ├── 3. Infographic.png
+│   │   ├── 4. Video Overview.mp4
+│   │   ├── 5. flashcards.csv
+│   │   ├── 6. Quiz/
+│   │   │   ├── quiz 1.png
+│   │   │   ├── quiz 2.png
+│   │   │   └── quiz 3.png
+│   │   ├── 7. Audio Overview.m4a
+│   │   └── 8. Report.pdf
+│   ├── source/
+│   │   └── Screenshot of the sources.png
+│   └── NotebookLM Link.txt
+└── README.md
